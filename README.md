@@ -4,6 +4,6 @@ This is a basic tree fractal project with sliders to change the tree's appearanc
 
 Program will slow down when trying to create trees with higher numbers of final branches. 
 
-To run the program: 
+To run the program, use the folloing command: 
 
-'''Run Main.class
+```java Main```
